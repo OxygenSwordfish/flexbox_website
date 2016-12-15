@@ -1,0 +1,77 @@
+header	{width: 100%;
+		height:	5%;
+		background-color: gray;}
+nav	li	{display: inline-block;
+		}
+
+.splash {width: 100%;
+		height: 40%;
+		font-size: 104px;
+		text-align: center;}
+
+.container	{width: 80%;
+			height: 100%;
+			display: flex;
+			align-content: flex-start;
+			align-items:flex-start;
+			flex-wrap: wrap;
+			margin:auto;}
+
+.box1	{background-color: orange;
+		width: 33%;
+		height: 40%;
+		background-image: url(../images/mountainbg.jpg);
+		background-size:cover;
+
+
+		}
+.box2	{background-color: blue;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/mountain2.jpg);
+		background-size: cover;
+}
+
+.box3	{background-color: yellow;
+		width: 33%;
+		height: 40%;
+		background-image: url(../images/building1.jpg);
+		background-size: cover;
+		}
+
+.box4	{background-color: red;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/murica.jpg);
+		background-size: cover;}
+
+.box5	{background-color: blue;
+		width: 33%;
+		height: 40%;
+		background-image: url(../images/sea.jpg);
+		background-size: cover;
+
+
+		}
+.box6	{background-color: pink;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/clouds.jpg);
+		background-size: cover;}
+
+.box7	{background-color: orange;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/mountain3.jpg);
+		background-size: cover;}
+
+.box8	{background-color: teal;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/desert.jpg);
+		background-size: cover;}
+.box9	{background-color: crimson;
+		width: 33%;
+		height:40%;
+		background-image: url(../images/road.jpg);
+		background-size: cover;}
